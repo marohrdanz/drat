@@ -14,4 +14,9 @@ our packages:
    install.packages("NGCHMDemoData", repos = "https://marohrdanz.github.io/drat")
    ```
 
+- [tsvio](https://github.com/MD-Anderson-Bioinformatics/tsvio)
+
+   ```r
+   install.packages("tsvio", repos = "https://marohrdanz.github.io/drat")
+   ```
 

@@ -21,3 +21,11 @@ Suggests: knitr, rmarkdown
 License: GPL-3
 MD5sum: b73d108c86abf8aee7525025848a6468
 NeedsCompilation: no
+
+Package: tsvio
+Version: 1.0.1
+Depends: R (>= 3.4.0)
+Suggests: testthat (>= 3.0.0), knitr, rmarkdown
+License: GPL (>= 3)
+MD5sum: c2ae38d26419298ccb9f4589c87078f8
+NeedsCompilation: yes
