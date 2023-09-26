@@ -4,18 +4,14 @@ Testing using [drat](https://cran.r-project.org/web/packages/drat/index.html) fo
 our packages:
 
 - [NGCHMSupportFiles](https://github.com/MD-Anderson-Bioinformatics/NGCHMSupportFiles)
+
+   ```r
+   install.packages("NGCHMSupportFiles", repos = "https://marohrdanz.github.io/drat")
+   ```
 - [NGCHMDemoData](https://github.com/MD-Anderson-Bioinformatics/NGCHMDemoData)
 
-To install NGCHMSupportFiles: 
-
-```r
-install.packages("NGCHMSupportFiles", repos = "https://marohrdanz.github.io/drat")
-```
-
-To install NGCHMDemoData:
-
-```r
-install.packages("NGCHMDemoData", repos = "https://marohrdanz.github.io/drat")
-```
+   ```r
+   install.packages("NGCHMDemoData", repos = "https://marohrdanz.github.io/drat")
+   ```
 
 
