@@ -7,6 +7,13 @@ License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
 
+Package: NGCHMDemoData
+Version: 1.0.0
+Depends: R (>= 3.5.0)
+License: GPL-3
+MD5sum: 7768e3b9952070b3927b368ba478e40a
+NeedsCompilation: no
+
 Package: NGCHMSupportFiles
 Version: 1.0.2
 Depends: R (>= 3.5.0)
